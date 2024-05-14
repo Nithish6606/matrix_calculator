@@ -1,10 +1,5 @@
 # matrix_calculator
 Matrix calculator is very useful to calculate any matrix operations.
-run main.py
- To calculate matrix operations.......
-
-
-
-    Thanks for using............
-    Please support me.......
-    This is my first repository on GitHub...
+```python3
+python main.py
+```
